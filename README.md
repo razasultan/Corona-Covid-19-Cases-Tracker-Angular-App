@@ -1,3 +1,7 @@
+![Home](https://github.com/razasultan/Corona-Covid-19-Cases-Tracker-Angular-App/blob/master/Home.PNG)
+![Country wise](https://github.com/razasultan/Corona-Covid-19-Cases-Tracker-Angular-App/blob/master/country%20wise.PNG)
+
+
 # Corona-Covid-19-Cases-Tracker-Angular-App
 This is the Corona Covid-19 Cases Tracker which shows corona cases ( Conformed, Deaths, Recovered) globally as well as country wise  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
